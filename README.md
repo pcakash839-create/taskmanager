@@ -2,9 +2,12 @@ php version 8.2
 laravel version 12
 
 email **admin@gmail.com**
+
 password **123123**
 
 **Only admin can create new users**
+
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/383927dd-ca47-4a72-bacd-dbc5c08f659d" />
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1d1fd5b-30ca-417d-b97b-8cf083d9db48" />
