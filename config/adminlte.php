@@ -320,19 +320,6 @@ return [
             'url' => 'admin/blog',
             'can' => 'manage-blog',
         ],
-        ['header' => 'users'],
-        [
-            'text' => 'List Users',
-            'url' => 'admin/settings',
-            'icon' => 'fas fa-fw fa-lock',
-            'can' => 'admin',
-        ],
-        [
-            'text' => 'Create Users',
-            'url' => 'admin/settings',
-            'icon' => 'fas fa-fw fa-lock',
-            'can' => 'admin',
-        ],
         ['header' => 'Projects'],
         [
             'text' => 'Create Project',
